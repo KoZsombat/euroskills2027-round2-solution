@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Build output directories
+dist/
+build/
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# downloaded files
+downloads/
